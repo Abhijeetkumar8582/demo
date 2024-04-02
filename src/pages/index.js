@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Helia is the leading provider</title>
+      <title>Tenet Healthcare</title>
     </Head>
       <div>
         <h4></h4>
