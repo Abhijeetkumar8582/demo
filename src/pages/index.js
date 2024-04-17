@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>ERAWAN Group</title>
+      <title>Acorn Hive</title>
     </Head>
       <div>
         <h4></h4>

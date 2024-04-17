@@ -7,8 +7,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
-        <script defer type="text/javascript" src="https://deepesh2.community.druidplatform.com/v2/druid_webchat_v2_load.js?botId=77e00fd4-d60f-46a5-9905-08dc53b2c1a6&amp;baseUrl=https%3A%2F%2Fdruidapi.comm.eu.druidplatform.com">
-        </script>
+        <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/3d75750b-5496-46c1-9849-0eb2d0fd09db/webchat/config.js" defer></script>
       </body>
     </Html>
   );
